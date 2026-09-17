@@ -9,15 +9,13 @@ The goal of this project was to strengthen my foundational web development skill
 ## ⚙️ Technologies Used
 - HTML5  
 - CSS3  
-- Visual Studio Code  
-- Live Server (for local testing)  
-- GitHub (for version control and hosting)
+- Visual Studio Code   
+- GitHub
 
 ## 💡 Features
-- Clean and responsive login form layout  
+- Clean login form layout  
 - Linked external stylesheet for modular design  
 - Organized project structure for scalability  
-- Ready for integration with backend authentication systems
 
 ## 🚀 How to Run
 1. Clone this repository:
