@@ -1,28 +1,28 @@
 # Login Page Project (HTML & CSS)
 
-## 🧩 Overview
+## Overview
 This project showcases a simple yet fully functional **login page interface** built using **HTML** and **CSS** in **Visual Studio Code**. It demonstrates my understanding of front-end structure, styling, and how web pages behave when deployed or tested locally.
 
-## 🎯 Purpose
+## Purpose
 The goal of this project was to strengthen my foundational web development skills and connect them to my **Systems Administration** studies — learning how web interfaces operate, how files are organized, and how local hosting environments work.
 
-## ⚙️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3  
 - Visual Studio Code   
 - GitHub
 
-## 💡 Features
+## Features
 - Clean login form layout  
 - Linked external stylesheet for modular design  
 - Organized project structure for scalability  
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/Franbulu/HTML-CSS.git
 
-📚 What I Learned
+## What I Learned
 
 Structuring and styling web pages from scratch
 
@@ -32,7 +32,7 @@ Running and testing projects locally
 
 Using GitHub for version control and project documentation
 
-👩🏽‍💻 Author
+## Author
 
 Francine Bulu  
 Systems Administration & Management Graduate
