@@ -17,10 +17,6 @@ The goal of this project was to strengthen my foundational web development skill
 - Linked external stylesheet for modular design  
 - Organized project structure for scalability  
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Franbulu/HTML-CSS.git
 
 ## What I Learned
 
