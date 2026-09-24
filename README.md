@@ -31,5 +31,5 @@ Using GitHub for version control and project documentation
 ## Author
 
 Francine Bulu  
-Systems Administration & Management Graduate
+Systems Administration & Management Graduate,
 Nashville State Community College
